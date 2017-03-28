@@ -1,0 +1,802 @@
+Got config end = ''
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/AudioManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ClusterInputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/DynamicsManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorBuildSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/GraphicsSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/InputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NavMeshAreas.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NetworkManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/Physics2DSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectVersion.txt" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/QualitySettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TagManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TimeManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/UnityConnectSettings.asset" 
+Got config end = ''
+level 48: User pg09jaxon logged out.
+login
+Prompted for password by server
+Login succeeded
+client -o "pg09Jaxon_lemona-software_Hexastella"
+Root set to /Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe
+info
+streams
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/AudioManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ClusterInputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/DynamicsManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorBuildSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/GraphicsSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/InputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NavMeshAreas.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NetworkManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/Physics2DSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectVersion.txt" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/QualitySettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TagManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TimeManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/UnityConnectSettings.asset" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/AudioManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ClusterInputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/DynamicsManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorBuildSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/GraphicsSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/InputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NavMeshAreas.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NetworkManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/Physics2DSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectVersion.txt' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/QualitySettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TagManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TimeManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/UnityConnectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/AudioManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ClusterInputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/DynamicsManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorBuildSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/GraphicsSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/InputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NavMeshAreas.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/NetworkManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/Physics2DSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/ProjectVersion.txt' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/QualitySettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TagManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/TimeManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/UnityConnectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/Hexastela/ProjectSettings/EditorSettings.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+Got config end = ''
+level 48: User pg09jaxon logged out.
+login
+Prompted for password by server
+Login succeeded
+client -o "pg09Jaxon_lemona-software_Hexastella"
+Root set to /Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe
+info
+streams
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/AudioManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ClusterInputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/DynamicsManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorBuildSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/GraphicsSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/InputManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NavMeshAreas.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NetworkManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/Physics2DSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectSettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectVersion.txt" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/QualitySettings.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TagManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TimeManager.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/UnityConnectSettings.asset" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/AudioManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ClusterInputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/DynamicsManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorBuildSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/GraphicsSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/InputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NavMeshAreas.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NetworkManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/Physics2DSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectVersion.txt' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/QualitySettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TagManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TimeManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/UnityConnectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/AudioManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ClusterInputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/DynamicsManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorBuildSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/EditorSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/GraphicsSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/InputManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NavMeshAreas.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/NetworkManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/Physics2DSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/ProjectVersion.txt' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/QualitySettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TagManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/TimeManager.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/ProjectSettings/UnityConnectSettings.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/AliensAndMarines.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Annimations.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Environment.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Fantasy Skybox FREE.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Font.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/BaseMale.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/Teddy.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/UnityChan.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/UI.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Medieval_boxes_free.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Robot Kyle.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scenes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Shaders.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/AliensAndMarines.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Annimations.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Environment.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Fantasy Skybox FREE.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Font.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/JustGradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/BaseMale.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/Teddy.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/Models/UnityChan.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Art/UI.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Hexagon.fbx.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Medieval_boxes_free.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain 1.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/New Terrain.asset.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Robot Kyle.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scenes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/AIController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Outpost.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/PlayerController.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/TeamManager.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Scripts/Unit.cs.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Shaders.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/PurpleNebula.mat.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Back_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Down_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Front_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Left_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Right_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Skyboxes/PurpleNebula/Textures/Up_MauveSpaceBox.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Gradient.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+StatusCommand::Run()
+fstat  "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Materials.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg.meta" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png" "/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png.meta" 
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.
+
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/Materials.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF1.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciF8.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi2.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi4.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi6.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/SciFi7.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/test.jpg.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
+e1:Path '/Users/Jaxonstevens/Desktop/VFS/TERM3/Final Project/RainCafe/Hexastela/Assets/Temporary Assets/wallBottom.png.meta' is not under client's root '/Users/Jaxonstevens/Desktop/VFS/TERM3/RainCafe'.\n
