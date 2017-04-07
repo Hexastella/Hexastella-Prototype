@@ -5,6 +5,13 @@ using UnityEngine.AI;
 
 public class AIController : Unit {
 
+
+
+	// Add a float for the mainbullet and instansiate it below
+	public float mainBullet; 
+
+
+
 	private NavMeshAgent agent;
 
 
@@ -34,6 +41,9 @@ public class AIController : Unit {
 
 
 	}
+
+
+
 
 	private void SetState (State newState)
 	{
@@ -125,6 +135,11 @@ public class AIController : Unit {
 		// We send the current speed of the agent every frame to display the movement animation
 
 		anim.SetFloat ("VerticalSpeed", agent.velocity.magnitude); 
+
+
+	
+
+	
 		
 	}
 }

@@ -9,10 +9,22 @@ public class PlayerController : Unit {
 	public float jumpheight;
 
 
-	public float bulletprefab;
+	// Create public playerBullet prefab
+	public GameObject playerBullet; 
 
 
-	private Transform camPivot;
+   // public float bulletprefab;
+
+    public float vertrotation;
+		// Camera up and down range float and make this public so we can set or change this float the unity editor.
+
+    public float CameraUpDownRange = 30f;
+		// Set the mouse sensitivity and make this public so we can set or change this float in the  unity editor.
+    public float mousesensitivity = 4f;
+
+
+
+
 	private float RaycastDistance = 5f;
 
 	// We can override virtual methods. This means the start method in the player conroller is called instead of the start in the unit.
@@ -23,7 +35,6 @@ public class PlayerController : Unit {
 		base.Start ();
 		// Here I can put whatever I want which will execute the start of the PlayerController
 
-		camPivot = transform.Find ("CamPivot");
 
 	}
 
@@ -31,6 +42,15 @@ public class PlayerController : Unit {
 
 	// Update is called once per frame
 	void Update () {
+
+		// THIS IS WHERE WE FIX THE CAMERA ROTATION
+
+			// This is what controls the camera pivot allowing the user to rotate the camera up and down
+			vertrotation -= Input.GetAxis ("Mouse Y") * mousesensitivity;
+
+			// We clamp the rotation of the camera to CameraUpDownRange which is the float defined and pass it in.
+			vertrotation = Mathf.Clamp (vertrotation, -CameraUpDownRange, CameraUpDownRange);
+			Camera.main.transform.localRotation = Quaternion.Euler (vertrotation, 0, 0);
 
 
 		// Add a dash effect to make the player dash when pressed a specific key
@@ -61,15 +81,20 @@ public class PlayerController : Unit {
 		// Create dodge roll effect
 
 
-		if (Input.GetKeyDown (KeyCode.D)) {
+		if (Input.GetKeyDown(KeyCode.C))
+		{
 
+			// Instantiate the coconut, transform and set the coconut speed with the defined value of "coconutSpeed in the Unity editor".
+			GameObject bullet = Instantiate(playerBullet, transform.position, Quaternion.identity) as GameObject;
+//			bullet.GetComponent<Rigidbody>().AddForce(transform.forward * playerBullet);
 
 
 		}
 
 
 
-		//Lock the cursor 
+
+		//Lock the cursor
 		Cursor.lockState = CursorLockMode.Locked;
 
 		float horizontalInput = Input.GetAxis ("Horizontal");
@@ -124,7 +149,7 @@ public class PlayerController : Unit {
 		transform.Rotate (0, mouseXInput, 0);
 
 		float mouseYInput = Input.GetAxis ("Mouse Y");
-		camPivot.Rotate (-mouseYInput, 0, 0);
+
 
 		anim.SetFloat ("HorizontalSpeed", horizontalInput);
 		anim.SetFloat ("VerticalSpeed", verticalInput);
