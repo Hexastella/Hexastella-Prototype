@@ -46,12 +46,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\AIController.cs" />
-     <Compile Include="Assets\Scripts\EnemyAIController.cs" />
-     <Compile Include="Assets\Scripts\Outpost.cs" />
-     <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\TeamManager.cs" />
-     <Compile Include="Assets\Scripts\Unit.cs" />
+     <Compile Include="Assets\Scripts\EnemyScripts\EnemyAttack.cs" />
+     <Compile Include="Assets\Scripts\EnemyScripts\EnemyHealth.cs" />
+     <Compile Include="Assets\Scripts\EnemyScripts\EnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\OtherScripts\AIController.cs" />
+     <Compile Include="Assets\Scripts\OtherScripts\Outpost.cs" />
+     <Compile Include="Assets\Scripts\OtherScripts\TeamManager.cs" />
+     <Compile Include="Assets\Scripts\OtherScripts\Unit.cs" />
+     <Compile Include="Assets\Scripts\PlayerScripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerScripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Scripts\PlayerScripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\PlayerScripts\PlayerShooting.cs" />
      <None Include="Assets\Art\Models\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\Art\Models\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
      <None Include="Assets\Shaders\Flag.shader" />
