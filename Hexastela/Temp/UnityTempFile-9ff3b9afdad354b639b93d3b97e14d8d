@@ -84,6 +84,7 @@
 'Assets/Scripts/OtherScripts/AIController.cs'
 'Assets/Scripts/OtherScripts/Outpost.cs'
 'Assets/Scripts/OtherScripts/TeamManager.cs'
+'Assets/Scripts/OtherScripts/Teleportation.cs'
 'Assets/Scripts/OtherScripts/Unit.cs'
 'Assets/Scripts/PlayerScripts/PlayerController.cs'
 'Assets/Scripts/PlayerScripts/PlayerHealth.cs'
