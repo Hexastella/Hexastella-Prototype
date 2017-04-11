@@ -46,13 +46,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Robot Kyle\Teleportation.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\EnemyAttack.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\EnemyHealth.cs" />
      <Compile Include="Assets\Scripts\EnemyScripts\EnemyMovement.cs" />
      <Compile Include="Assets\Scripts\OtherScripts\AIController.cs" />
      <Compile Include="Assets\Scripts\OtherScripts\Outpost.cs" />
      <Compile Include="Assets\Scripts\OtherScripts\TeamManager.cs" />
-     <Compile Include="Assets\Scripts\OtherScripts\Teleportation.cs" />
      <Compile Include="Assets\Scripts\OtherScripts\Unit.cs" />
      <Compile Include="Assets\Scripts\PlayerScripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerScripts\PlayerHealth.cs" />
